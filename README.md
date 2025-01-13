@@ -23,9 +23,8 @@
 - He/Him
 
 ## ⚡ Fun fact:
-- I’m a volleyball and basketball player, have practiced Taekwondo, cycling, running, and enjoy going to the gym.
-- I aspire to create my own brand, combining modernity with tradition, and design a private wine label featuring a peregrine falcon.
-
+- I’m a basketball player, have practiced Taekwondo, cycling, running, volleyball and enjoy going to the gym.
+- I aspire to create my own personal brand and become a good developer.
 <!---
 iamwilllll/iamwilllll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
