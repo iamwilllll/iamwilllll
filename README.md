@@ -3,8 +3,6 @@
 ## 👀 I’m interested in:
 - Front-end development
 - Technology
-- Photography
-- Video games
 - Innovative and creative projects
 
 ## 🌱 I’m currently learning:
