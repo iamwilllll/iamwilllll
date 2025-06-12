@@ -16,6 +16,8 @@
 
 ## 📫 How to reach me:
 - **Email:** [wilfrynbusiness@gmail.com](mailto:wilfrynbusiness@gmail.com)
+- **Linkedin:** https:[iamwilllll](https://www.linkedin.com/in/iamwilllll/?originalSubdomain=do)
+
 
 ## 😄 Pronouns:
 - He/Him
