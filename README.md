@@ -17,6 +17,7 @@
 ## 📫 How to reach me:
 - **Email:** [wilfrynbusiness@gmail.com](mailto:wilfrynbusiness@gmail.com)
 - **Linkedin:** [iamwilllll](https://www.linkedin.com/in/iamwilllll/?originalSubdomain=do)
+- **Instagram:** [@iamwilllll]([https://www.linkedin.com/in/iamwilllll/?originalSubdomain=do](https://www.instagram.com/iam_willlll/))
 
 
 ## 😄 Pronouns:
