@@ -5,10 +5,15 @@
 - Technology
 - Innovative and creative projects
 
-## 🌱 I’m currently learning:
-- HTML and CSS to master front-end development
-- Git for version control
-- Structured cabling as part of my studies
+## 🌱 my skills:
+- HTML
+- CSS
+- JavaScript
+- Sass
+- Vite
+- React
+- TypeScript
+- Tailwindcss
 
 ## 💞️ I’m looking to collaborate on:
 - Exciting and innovative front-end projects
@@ -26,7 +31,4 @@
 ## ⚡ Fun fact:
 - I’m a basketball player, have practiced Taekwondo, cycling, running, volleyball and enjoy going to the gym.
 - I aspire to create my own personal brand and become a good developer.
-<!---
-iamwilllll/iamwilllll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
