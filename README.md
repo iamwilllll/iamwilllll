@@ -6,14 +6,12 @@
 - Innovative and creative projects
 
 ## 🌱 my skills:
-- HTML
-- CSS
 - JavaScript
-- Sass
 - TypeScript
-- Vite
 - React
 - Tailwindcss
+- NodeJs
+- Express
 
 ## 💞️ I’m looking to collaborate on:
 - Exciting and innovative front-end projects
